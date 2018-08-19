@@ -31,5 +31,7 @@ export class AppComponent {
 
   fecha = new Date();
 
+  video = 'mc1_ODoanz8';
+
 
 }
