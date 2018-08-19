@@ -33,5 +33,6 @@ export class AppComponent {
 
   video = 'mc1_ODoanz8';
 
+  activar = true;
 
 }
